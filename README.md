@@ -49,8 +49,6 @@
   
 
 </svg>
-### 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Pathuz21/Pathuz21/output/snake.svg)
 
 ###
